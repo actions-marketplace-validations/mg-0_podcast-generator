@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator LI"
 author: "Mark de Graaff"
 description: "Generates a feed from yaml"
 runs:
